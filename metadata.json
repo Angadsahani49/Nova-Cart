@@ -1,0 +1,6 @@
+{
+  "name": "NovaCart - Modern E-Commerce Platform",
+  "description": "Professional e-commerce shopping platform featuring end-to-end user registration, product catalog, cart, address management, checkout, multi-gateway payments, live order tracking, and returns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
